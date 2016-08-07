@@ -38,5 +38,6 @@ $> sudo npm -g nightwatch
 ```
 
 ### Run Test
-
+```
 $> nightwatch
+```
