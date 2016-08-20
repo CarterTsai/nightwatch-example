@@ -24,7 +24,7 @@ $> brew install chromedriver
 #### Start Selenium-Server
 
 ```
-$> brew services lis
+$> brew services list
 ```
 
 ```
@@ -34,7 +34,7 @@ $> brew services start selenium-server-standalone245
 ### Install Nightwatch
 
 ```
-$> sudo npm -g nightwatch
+$> sudo npm install -g nightwatch
 ```
 
 ### Run Test
